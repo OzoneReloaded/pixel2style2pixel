@@ -11,7 +11,7 @@
 
 
 ## Note   
-.npy files was taken from https://github.com/EvgenyKashin/stylegan2-distillation
+.npy files were taken from https://github.com/EvgenyKashin/stylegan2-distillation
 
 ## Description   
 Official Implementation of our pSp paper for both training and evaluation. The pSp method extends the StyleGAN model to 
